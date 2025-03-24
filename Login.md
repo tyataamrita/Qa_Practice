@@ -135,7 +135,8 @@ The report is stored in the `extent-reports/` directory with a timestamped filen
 ## Running the Tests
 To execute the tests, run the following command:
 ```sh
-mvn test -Dtest=TestNG
+mvn clean test -DsuiteXmlFile=TestNG.xml
+
 ```
 
 After execution, the HTML report can be found in `extent-reports/`.
