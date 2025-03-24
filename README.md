@@ -5,9 +5,9 @@ This project automates the login functionality of the SauceDemo website (https:/
 
 ---
 ##  Understanding the Application (Test Planning)
-For login functonality ,I selected SauceDemo as the test website which provides a login page for authentication.
+For login functonality, I selected SauceDemo as the test website which provides a login page for authentication.
 
-After  analyzing website ,I identified different test scenarios for login functionality, including valid and invalid credentials. The login page consists of:
+After  analyzing website, I identified different test scenarios for login functionality, including valid and invalid credentials. The login page consists of:
 
 - **Username field** (Input)
 - **Password field** (Input)
