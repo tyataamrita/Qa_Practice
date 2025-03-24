@@ -4,16 +4,16 @@
 This project automates the login functionality of the SauceDemo website (https://www.saucedemo.com/) using Selenium WebDriver, Java, and TestNG. It implements a structured automation framework following the Page Object Model (POM), with test execution managed through TestNG and reports generated using Extent Reports.
 
 ---
-## : Understanding the Application (Test Planning)
-I selected SauceDemo as the test website, which provides a login page for authentication.
+##  Understanding the Application (Test Planning)
+For login functonality ,I selected SauceDemo as the test website which provides a login page for authentication.
 
-I identified different test scenarios for login functionality, including valid and invalid credentials. The login page consists of:
+After  analyzing website ,I identified different test scenarios for login functionality, including valid and invalid credentials. The login page consists of:
 
 - **Username field** (Input)
 - **Password field** (Input)
 - **Login button** (Action)
 - **Error message field** (Validation)
-- 
+  
 ## Approach for Automation
 To ensure a structured and maintainable automation framework, the following principles are applied:
 
@@ -135,7 +135,7 @@ The report is stored in the `extent-reports/` directory with a timestamped filen
 ## Running the Tests
 To execute the tests, run the following command:
 ```sh
-mvn test
+mvn test -Dtest=TestNG
 ```
 
 After execution, the HTML report can be found in `extent-reports/`.
