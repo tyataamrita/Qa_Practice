@@ -125,8 +125,11 @@ The solution involves creating a Page Object Model (POM) to interact with web el
 
 4. **Report Generation:**
    - ExtentReports generates a detailed HTML report for each test case.
+   *![Screenshot from 2025-03-25 16-38-27](https://github.com/user-attachments/assets/71605c00-0fcf-44fd-bae5-619b8b72416e)
+*
    - Log4j logs detailed information about each test case execution status (pass/fail) with screenshots for failures.
-
+ *![Screenshot from 2025-03-25 16-43-07](https://github.com/user-attachments/assets/1f7bfc58-ec7c-418f-9a9e-61aa207b1447)
+*
 ---
 
 **Conclusion**
