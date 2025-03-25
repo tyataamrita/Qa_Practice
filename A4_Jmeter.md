@@ -15,6 +15,7 @@ The `{seconds_to_delay}` value was randomly selected between **1 to 10 seconds**
     vars.put("random_seconds", Integer.toString(random_seconds));  // Store in JMeter variable
 - **API Call**: GET request to `https://httpbin.org/delay/{random_seconds}`
 - **Listeners**: Summary Report,View Result Tree,Aggregate Report, Response Time Graph, Hits Per Second, and Threads vs. Time
+- **Report Generation**: jmeter -n -t Jmtask.jmx -l results.jtl -e -o report-folder
 
 ## **3. Performance Results**
 
