@@ -46,34 +46,45 @@ The `{seconds_to_delay}` value was randomly selected between **1 to 10 seconds**
 ## **5. Performance Graphs**
 ### **5.1 Response Time Over Time**
 - **First case**: 
-*file:///home/amrita/Pictures/Screenshots/RSOT1.png*
+*![RSOT1](https://github.com/user-attachments/assets/df9e0a9b-53e8-4f59-9eca-4f10ae8563d0)
+*
 - **Second case**: 
-*file:///home/amrita/Pictures/Screenshots/RSOT2.png*
+*![RSOT2](https://github.com/user-attachments/assets/8a9d3f96-cc50-473c-ae05-59db939b07f6)
+*
 - **Third case**: 
-*file:///home/amrita/Pictures/Screenshots/RSOT3.png*
+*![RSOT3](https://github.com/user-attachments/assets/bb90431f-1b65-48b7-83b8-a34e116b3ea4)
+*
 - **Fourth case**: 
-*file:///home/amrita/Pictures/Screenshots/RSOT4.png*
+*![RSOT4](https://github.com/user-attachments/assets/f113a3ee-1fc4-44cd-b63d-a329bb96e2a0)
+*
 
 ### **5.2 Hits Per Second**
 - **First case**: 
-*file:///home/amrita/Pictures/Screenshots/HSP1.png*
+*![HSP1](https://github.com/user-attachments/assets/d1b82eae-a28a-44e2-9287-e6d83ee4ef92)
+*
 - **Second case**: 
-*file:///home/amrita/Pictures/Screenshots/HSP2.png*
+*![HSP2](https://github.com/user-attachments/assets/a2aaac2f-12de-47cc-9e3a-7070b43609f0)
+*
 - **Third case**: 
-*file:///home/amrita/Pictures/Screenshots/HSP3.png*
+*![HSP3](https://github.com/user-attachments/assets/e26b6e55-2673-4dff-9388-06e09046d150)
+*
 - **Fourth case**: 
-*file:///home/amrita/Pictures/Screenshots/HSP4.png*
+*![HSP4](https://github.com/user-attachments/assets/e0c979bf-5f00-47dd-a9e8-8853f4a605e7)
+*
 
 ### **5.3 Time vs. Threads**
 - **First case**: 
-*file:///home/amrita/Pictures/Screenshots/TVT1.png*
+*![TVT1](https://github.com/user-attachments/assets/0557d97b-16a6-4374-bbd5-d7cf51120f5b)
+*
 - **Second case**: 
-*file:///home/amrita/Pictures/Screenshots/TVT2.png*
+*![TVT2](https://github.com/user-attachments/assets/f1bcb8d9-f564-441a-af38-848ea8b07b05)
+*
 - **Third case**: 
-*file:///home/amrita/Pictures/Screenshots/TVT3.png*
+*![TVT3](https://github.com/user-attachments/assets/f1f9fe66-38c9-4cd5-809a-1277e9425ace)
+*
 - **Fourth case**: 
-*file:///home/amrita/Pictures/Screenshots/TVT4.png*
-
+*![TVT4](https://github.com/user-attachments/assets/b55e5e51-1320-4c72-a00c-5b6c7dfd082b)
+*
 
 ## **6. Conclusion & Recommendations**
 
