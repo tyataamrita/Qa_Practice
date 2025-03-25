@@ -129,6 +129,9 @@ public void afterClass() {
 
 ### Where is the HTML Report Stored?
 The report is stored in the `extent-reports/` directory with a timestamped filename.
+*TestNg- ![Screenshot from 2025-03-25 16-44-06](https://github.com/user-attachments/assets/99748332-fe9c-4182-9ac0-2c34683ffb45)
+
+*Extent report-![Screenshot from 2025-03-25 16-38-27](https://github.com/user-attachments/assets/add5c173-c71a-4bdd-b969-bd38c1bea3f6)
 
 ---
 
