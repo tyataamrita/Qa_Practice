@@ -9,7 +9,7 @@ This repository contains automated tests for:
 ### **1.1 Download Project**
 Clone the repository or download the ZIP file:
 ```sh
-git clone <repository_url>
+git clone git clone https://github.com/tyataamrita/Qa_Practice.git
 ```
 Or download manually:
 - Click on **Code** → **Download ZIP**  
